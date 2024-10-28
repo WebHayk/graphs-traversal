@@ -1,0 +1,20 @@
+{
+  "name": "graphs-traversal",
+  "version": "1.0.0",
+  "description": "Welcome to the **Graph Traversal** repository! This project implements essential graph traversal algorithms like **Depth-First Search (DFS)** and **Breadth-First Search (BFS)** in JavaScript. These algorithms explore nodes in directed or undirected graphs, providing a foundational toolset for applications in networking, game development, and pathfinding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHayk/graphs-traversal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHayk/graphs-traversal/issues"
+  },
+  "homepage": "https://github.com/WebHayk/graphs-traversal#readme"
+}
